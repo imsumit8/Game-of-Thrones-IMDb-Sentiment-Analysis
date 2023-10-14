@@ -1,6 +1,6 @@
 # Game-of-Thrones-IMDb-Sentiment-Analysis
 This project involves conducting sentiment analysis on user-generated reviews of the renowned television series "Game of Thrones" sourced from IMDb. Leveraging the power of Natural Language Process. The data was meticulously collected through web scraping from a freely available source, Rapid API, ensuring a diverse and comprehensive dataset.
-Certainly! Below is a format for a GitHub README file with two sections: "Importing the dataset using Webscraping from Rapid API" and "EDA and Sentiment Analysis." You can use this format to provide information about these two aspects of your project.
+Certainly! Below is a format for a GitHub README file with two sections: "Importing the dataset using Webscraping from Rapid API" and "EDA and Sentiment Analysis." 
 
 ### Prerequisites
 To obtain data from the IMDb database via RapidAPI, you'll need to start by registering for a free account on the RapidAPI portal. After registering, you can create a new application within your account, giving it a specific name and saving the details.
