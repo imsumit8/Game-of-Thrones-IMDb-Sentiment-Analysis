@@ -70,7 +70,7 @@ The **Polarity** is a floating-point value ranging between -1 and 1, where a **1
 
 Therefore, they will play a significant role in assessing the online community's sentiment regarding the television series Game of Thrones.
 ++ FOR EDA AND SENTIMENT ANALYSIS ON DATASET RUN :
-- [EDA+Sentiment Analysis on DATA(GOT-REVIEW-EDA+ Sentiment_Analysis.ipynb)]
+- [EDA+Sentiment Analysis on DATA](GOT-REVIEW-EDA+%20Sentiment_Analysis.ipynb)
 
 
 
