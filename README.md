@@ -132,5 +132,4 @@ This project would not have been possible without the invaluable contributions o
 For inquiries, feedback, or collaboration opportunities, feel free to contact me:
 
 - Email: [imsumit8@gmail.com](mailto:imsumit8@gmail.com)
-- Phone: +9476486064
 
