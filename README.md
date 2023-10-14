@@ -51,7 +51,7 @@ for i in range(220):  # In each iteration, we get 25 reviews by hitting the API
 with open('GOT_main.csv', 'w', encoding='utf-8', newline='') as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerows(data_list)
-
+```
 
 ## EDA and Sentiment Analysis
 Data cleansing and preprocessing are essential initial steps in working with a dataset. Therefore, we conducted an Exploratory Data Analysis to obtain deeper insights into the dataset.
