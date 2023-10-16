@@ -81,9 +81,17 @@ Therefore, they will play a significant role in assessing the online community's
 
 ![Dashboard 1](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/8da08767-91f3-4884-9987-1f7448edfd89)
 
+• Lowest ratings in 2015(Season 5), highest average ratings in 2018(due to Season 7).
+• Season 8 (2019)with lower ratings, and notably, the second-highest rating in Season 1(2011).
+• Most helpful reviews are concentrated in the year 2020, while less helpful reviews are more prominent in the year 2016-19.
+
 ![Dashboard 3 (1)](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/10f26632-468b-49ad-8117-e03ccf6b08cf)
 
+• In 2019, Season 8 prompted the highest average negative polarity, while 2018 marked the peak of positive polarity with Season 7.
+
 ![Dashboard 4](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/eb6be914-6b6d-450c-9543-edae1f953378)
+
+• Given that the finalseason was released in2019, it's no surprisethat the majority ofspoiler contentoriginates from that year.Furthermore, spoiler content continues toappear even after 2019.
 
 
 ### Conclusion
