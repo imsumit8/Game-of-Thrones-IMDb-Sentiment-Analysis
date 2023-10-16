@@ -82,7 +82,9 @@ Therefore, they will play a significant role in assessing the online community's
 ![Dashboard 1](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/8da08767-91f3-4884-9987-1f7448edfd89)
 
 • Lowest ratings in 2015(Season 5), highest average ratings in 2018(due to Season 7).
+
 • Season 8 (2019)with lower ratings, and notably, the second-highest rating in Season 1(2011).
+
 • Most helpful reviews are concentrated in the year 2020, while less helpful reviews are more prominent in the year 2016-19.
 
 ![Dashboard 3 (1)](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/10f26632-468b-49ad-8117-e03ccf6b08cf)
