@@ -75,6 +75,7 @@ Therefore, they will play a significant role in assessing the online community's
 ### Year on Year Analysis
 ![Alt Text](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/raw/main/Dashboard%201.png)
 ![Visualization 1](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/raw/main/Dashboard%201.png)
+![Dashboard 2 (1)](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/5848dcf9-9d78-452c-be39-9aa2645393c4)
 
 
 ### Conclusion
