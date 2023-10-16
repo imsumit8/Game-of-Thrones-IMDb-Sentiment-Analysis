@@ -74,6 +74,7 @@ Therefore, they will play a significant role in assessing the online community's
   
 ### Year on Year Analysis
 ![Dashboard 2 (1)](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/assets/92866164/5848dcf9-9d78-452c-be39-9aa2645393c4)
+
 •It's apparent that the highest proportion of reviews, accounting for nearly 43%, were submitted in the year 2019. This surge in reviews coincides with the release of the final season of 'Game of Thrones' during that year
 • Furthermore, it's worth noting that the majority of negative sentiments are concentrated within the same year. This corresponds to the release of Season 8 of 'Game of Thrones,'which received relatively fewer positive reviews.
 
