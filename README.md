@@ -73,8 +73,8 @@ Therefore, they will play a significant role in assessing the online community's
 - [EDA+Sentiment Analysis on DATA](GOT-REVIEW-EDA+%20Sentiment_Analysis.ipynb)
   
 ### Year on Year Analysis
-![Alt Text](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/blob/main/Dashboard%201.png)
-![Visualization 1](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/blob/main/Dashboard%201.png)
+![Alt Text](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/raw/main/Dashboard%201.png)
+![Visualization 1](https://github.com/imsumit8/Game-of-Thrones-IMDb-Sentiment-Analysis/raw/main/Dashboard%201.png)
 
 
 ### Conclusion
